@@ -19,4 +19,16 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
