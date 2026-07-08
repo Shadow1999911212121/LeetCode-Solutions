@@ -31,6 +31,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,8 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
