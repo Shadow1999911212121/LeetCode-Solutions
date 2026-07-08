@@ -24,6 +24,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -34,6 +35,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -77,6 +79,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
