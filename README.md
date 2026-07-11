@@ -24,6 +24,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -79,6 +80,7 @@ My accepted LeetCode solutions, auto-synced.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0740-delete-and-earn](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 ## String
@@ -86,6 +88,7 @@ My accepted LeetCode solutions, auto-synced.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -121,5 +124,6 @@ My accepted LeetCode solutions, auto-synced.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shadow1999911212121/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
